@@ -61,7 +61,7 @@ NFTCollection is a repository that showcases a curated collection of Non-Fungibl
 
 **Priyanshu**
 
-- GitHub: [github.com/codebreaker-pk](https://github.com/22bcs10361)
-- Email: official.pk.900@gmail.com
+- GitHub: (https://github.com/22bcs10361)
+- Email: priyanshu.kumari0031@gmail.com
 ## License
 This project is licensed under the [MIT License](https://github.com/22bcs10361/Create-a-NFT-Collection/blob/3256285b25e152a702269d6d78185ec66c7b5f98/LICENSE).
